@@ -3,6 +3,5 @@
 
   <include name="aosp.xml" />
   <include name="glodroid.xml" />
-  <include name="lightweight.xml" />
 
 </manifest>
