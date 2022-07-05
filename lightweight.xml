@@ -29,6 +29,7 @@
   <remove-project name="device/google/wahoo" />
   <remove-project name="device/google/wahoo-kernel" />
 
+  <remove-project name="platform/prebuilts/bazel/darwin-x86_64" />
   <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
   <remove-project name="platform/prebuilts/fuchsia_sdk" />
   <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
